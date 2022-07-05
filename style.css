@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 span {
+    color: orange;
+}
+
+.half-width {
+    width: 45%;
+    margin-left: 2.5%;
+}
+
+.fexiable {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.text {
+    margin-top: 200px;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 10%;
+    ;
+}
+
+.half-width p {
+    margin: 40px 0px;
+    color: gray;
+}
+
+.link-button {
+    padding: 10px 30px;
+    color: #fff;
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
